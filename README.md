@@ -1,4 +1,4 @@
-![Banner](./svg/readme.gif)
+![](./svg/readme.gif)
 <br />
 
 <a href=""><img src="https://img.shields.io/badge/Hi-there-green" alt="GitHub"></a>
@@ -16,7 +16,7 @@ I'm SACHIN 😄. I'm a Software Developer (on the way 😅) currently pursuing m
 <a href="https://t.me/rogers9798">
   <img align="left" style="color:white" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> 
-<br/>
+<br><br>
 
 **CURRENT YEAR STATS**
 

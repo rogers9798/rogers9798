@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/readme.gif" width="450" height="200" />
+<img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/readme.gif" width="470" height="250" />
 
 <br />
 

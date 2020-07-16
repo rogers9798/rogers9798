@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/readme.gif)
+<img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/readme.gif" width="450" height="200" />
+
 <br />
 
 <a href=""><img src="https://img.shields.io/badge/Hi-there-green" alt="GitHub"></a>

@@ -1,4 +1,4 @@
-![](./svg/readme.gif)
+![](https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/readme.gif)
 <br />
 
 <a href=""><img src="https://img.shields.io/badge/Hi-there-green" alt="GitHub"></a>
@@ -26,14 +26,14 @@ I'm SACHIN 😄. I'm a Software Developer (on the way 😅) currently pursuing m
 
 <p align="center">
 <img src="./svg/nodejs.svg" height="25px" style="vertical-align:top; margin:4px">
- <img src="./svg/html.svg" style="vertical-align:top; margin:4px">
- <img src="./svg/js.svg" style="vertical-align:top; margin:4px">
- <img src="./svg/python.svg" style="vertical-align:top; margin:4px">
- <img src="./svg/react.svg" style="vertical-align:top; margin:4px">
- <img src="./svg/cloud.svg" style="vertical-align:top; margin:4px">
- <img src="./svg/aws.svg" style="vertical-align:top; margin:4px">
- <img src="./svg/bash.svg" style="vertical-align:top; margin:4px">
- <img src="./svg/visualstudio_code.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master//svg/html.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/js.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/python.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/react.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/cloud.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/aws.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/bash.svg" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/rogers9798/rogers9798/master/svg/visualstudio_code.svg" style="vertical-align:top; margin:4px">
 
 </p>
 

@@ -3,7 +3,7 @@
 <br />
 
 <a href=""><img src="https://img.shields.io/badge/Hi-there-green" alt="GitHub"></a>
-I'm SACHIN 😄. I'm a Software Developer (on the way 😅) currently pursuing my Pre-Final Undergraduate 🎓 at JIIT. I'm interested in all things tech, and all things at the intersection of **LINUX** 💻, data and technology!
+I'm SACHIN 😄. I'm a Software Developer (on the way 😅) currently pursuing my Pre-Final Undergraduate 🎓 at JIIT. I'm interested in all things tech including open-source, and all things at the intersection of **LINUX** 💻, data, cloud and new-technology!
 
 **FIND ME HERE** 🧐
 <br/>

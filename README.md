@@ -14,7 +14,7 @@ I'm SACHIN 😄. I'm a Software Developer (on the way 😅) currently pursuing m
 <a href="https://www.linkedin.com/in/sachin-kumar-211370152/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<br/>
 **CURRENT YEAR STATS**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rogers9798&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)

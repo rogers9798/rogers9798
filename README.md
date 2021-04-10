@@ -14,10 +14,6 @@ I'm SACHIN 😄. I'm a Software Developer (on the way 😅) currently pursuing m
 <a href="https://www.linkedin.com/in/sachin-kumar-211370152/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/rogers9798">
-  <img align="left" style="color:white" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a> 
-<br><br>
 
 **CURRENT YEAR STATS**
 

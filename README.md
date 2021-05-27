@@ -6,22 +6,28 @@
 I'm SACHIN 😄. I'm a Software Developer (on the way 😅) currently pursuing my Final Undergraduate 🎓 at JIIT. I'm interested in all things tech including open-source, and all things at the intersection of **LINUX** 💻, data, cloud and new-technology!
 
 **FIND ME HERE** 🧐
-<br/>
-
+<p>
 <a href="https://twitter.com/rogers9798">
-  <img align="left" alt="Sachin Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sachin Kumar | Twitter" width="32px" src="https://www.iconpacks.net/icons/1/free-icon-twitter-135.png" />
 </a> 
 <a href="https://www.linkedin.com/in/sachin-kumar-211370152/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="32px" src="https://www.iconpacks.net/icons/1/free-icon-linkedin-130.png" />
 </a>
+</p>
 <br/>
+<br/>
+
 **CURRENT YEAR STATS**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rogers9798&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-**TECH STACK** ⚡⚡
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogers9798&show_icons=true&locale=en&layout=compact" alt="rogers9798" /></p>
+<br/>
 
+**TECH STACK** ⚡⚡
+<br/>
 <p align="center">
+
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -38,8 +44,9 @@ I'm SACHIN 😄. I'm a Software Developer (on the way 😅) currently pursuing m
 
 </p>
 
----
+<p>
 
-#### Looking forward to meet 🙏🏼
+Looking forward to meet 🙏🏼
 
 ⭐️ [Sachin](https://github.com/rogers9798)
+</p>
